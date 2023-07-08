@@ -5,11 +5,10 @@
 }
 
 .body {
+  height: 100vh;
   display: flex;
-  width: 1440px;
-  height: 800px;
   align-items: center;
-  justify-content: center;
+  justify-content: center;;
   background-color: hsl(30, 38%, 92%);
 }
 
@@ -99,7 +98,7 @@
   text-decoration: none;
 }
 .button:hover {
-  cursor: pointer;
+  cur
   background-color: rgb(30, 59, 30);
 }
 
